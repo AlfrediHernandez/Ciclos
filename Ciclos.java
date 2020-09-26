@@ -7,5 +7,9 @@ public class Ciclos{
 				System.out.println(a);
 				a++;
 			}while(a <=25);
+		System.out.println("                         ");
+		System.out.println("-------------------------");
+		System.out.println("-  Alfredi 26-sep-2020  -");
+		System.out.println("-------------------------");
 	}
 }
